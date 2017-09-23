@@ -6,4 +6,4 @@ HTML + THREE.JS
 
 Try iy now in your browser
 
-![alt text](https://vectorgenesis.net)
+![Preview](https://vectorgenesis.net)
