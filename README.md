@@ -7,4 +7,4 @@ HTML + THREE.JS
 Try iy now in your browser
 
 
-[[https://vectorgenesis.net|alt=octocat]]
+[[https://vectorgenesis.net]]
