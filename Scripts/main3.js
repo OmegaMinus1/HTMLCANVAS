@@ -179,7 +179,7 @@ function initUniformBuffer(gl, TimeElapsed, resolutionX, resolutionY) {
 //Startup WebGL
 function LoadApp() {
 
-    TBank.loadTextures();
+    //TBank.loadTextures();
 
     //Make Full Canvas
     theCanvas = initCanvas();
