@@ -6,4 +6,4 @@ HTML + THREE.JS
 
 Try it now in your browser!
 
-[Preview](https://www.vectorgenesis.net)
+
